@@ -20,21 +20,9 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 
 ## Featured Projects
 
-*   🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](link-al-repo):** To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
+*   🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main):** To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FithoGerardo&show_icons=true&theme=radical&hide_border=true" alt="Gerardo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FithoGerardo&theme=radical&hide_border=true" alt="Gerardo's GitHub Streak" />
-</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
 
 
 
