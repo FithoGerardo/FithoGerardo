@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[Data Analyst LinkedIn Banner.png]" alt="Fitho Gerardo Banner" width="100%" />
+  <img src="Data Analyst LinkedIn Banner.png" alt="Fitho Gerardo Banner" width="100%" />
 </div>
 
 <br>
