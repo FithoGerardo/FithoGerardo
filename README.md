@@ -18,10 +18,6 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 * **Management:** Jira, Slack
 * **Languages:** Spanish: Native, English: Proficient
 
-## Featured Projects
-
-*   🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main):** To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -34,7 +30,14 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />  
 </p>
 
+## Featured Projects
 
+* 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main)**
+To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
+
+## Gerardo's Portfolio
+
+* 💼 **[Gerardo's Portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)**
 
 <!--
 **FithoGerardo/FithoGerardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
