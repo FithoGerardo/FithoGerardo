@@ -35,6 +35,9 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 * 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main)**
 To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
+* 🔍 **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://github.com/FithoGerardo/E-commerce-Funnel-Retention-Analysis-With-SQL/tree/main)**
+This project focuses on analyzing the full user funnel and retention performance using SQL.
+
 ## Gerardo's Portfolio
 
 * 💼 **[Gerardo's Portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)**
