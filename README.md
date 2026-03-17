@@ -32,11 +32,15 @@ Data analyst with strong skills in Excel, Google Sheets, SQL, and Python, with p
 
 ## Featured Projects
 
-* 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://fithogerardo.github.io/Urban-Mobility-in-LATAM-Cities/)**
+* **[ConnectaTel – Customer Usage Analysis | Triple Ten 2026](https://fithogerardo.github.io/Analysis-of-a-telecommunications-company/)**
+
+This project focuses on understanding how customers actually use mobile services (calls and messages) in order to detect usage patterns, identify atypical behaviors and generate actionable customer segments for a telecommunications company.
+
+* **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://fithogerardo.github.io/Urban-Mobility-in-LATAM-Cities/)**
   
 To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
-* 🔍 **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://fithogerardo.github.io/E-commerce-Funnel-Retention-Analysis-With-SQL/)**
+* **[E-commerce Funnel Retention Analysis With SQL | Triple Ten 2026](https://fithogerardo.github.io/E-commerce-Funnel-Retention-Analysis-With-SQL/)**
   
 This project focuses on analyzing the full user funnel and retention performance using SQL.
 
